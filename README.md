@@ -48,7 +48,7 @@ This application is designed to manage the payment processes for students, allow
 ### Running the Application
 1. **Backend**:
    ```
-   cd backend
+   cd Backend-spring-boot
    mvn spring-boot:run
    ```
 2. **Frontend**:
